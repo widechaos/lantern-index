@@ -1,0 +1,173 @@
+{
+  "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "fixture": "15 author-written diagnostic queries, not independent or human-user evaluation",
+  "cases": [
+    {
+      "query": "What rang after the bell rope was cut?",
+      "expected": "bell",
+      "actual": [
+        "bell",
+        "clock",
+        "battery"
+      ],
+      "correct": true,
+      "top1": "bell",
+      "ms": 3.4
+    },
+    {
+      "query": "Why was the amber lantern kept burning?",
+      "expected": "light",
+      "actual": [
+        "light",
+        "visitor",
+        "battery"
+      ],
+      "correct": true,
+      "top1": "light",
+      "ms": 4.07
+    },
+    {
+      "query": "What did Mara write to her brother?",
+      "expected": "letter",
+      "actual": [
+        "letter",
+        "portrait",
+        "light"
+      ],
+      "correct": true,
+      "top1": "letter",
+      "ms": 3.22
+    },
+    {
+      "query": "When did the final passenger service leave?",
+      "expected": "train",
+      "actual": [
+        "train",
+        "letter"
+      ],
+      "correct": true,
+      "top1": "train",
+      "ms": 4.6
+    },
+    {
+      "query": "Why were there no wheel marks in the snow?",
+      "expected": "tracks",
+      "actual": [
+        "tracks"
+      ],
+      "correct": true,
+      "top1": "tracks",
+      "ms": 3.02
+    },
+    {
+      "query": "Could the heating system make knocking sounds?",
+      "expected": "pipe",
+      "actual": [
+        "pipe"
+      ],
+      "correct": true,
+      "top1": "pipe",
+      "ms": 3.92
+    },
+    {
+      "query": "Was the light powered by electricity?",
+      "expected": "battery",
+      "actual": [
+        "battery",
+        "light",
+        "visitor"
+      ],
+      "correct": true,
+      "top1": "battery",
+      "ms": 3.66
+    },
+    {
+      "query": "What did the siblings repair in the old photo?",
+      "expected": "portrait",
+      "actual": [
+        "portrait",
+        "letter"
+      ],
+      "correct": true,
+      "top1": "portrait",
+      "ms": 3.6
+    },
+    {
+      "query": "What food did the kiosk buy?",
+      "expected": "bread",
+      "actual": [
+        "bread"
+      ],
+      "correct": true,
+      "top1": "bread",
+      "ms": 3.32
+    },
+    {
+      "query": "What grew outside the waiting room?",
+      "expected": "garden",
+      "actual": [
+        "garden",
+        "clock",
+        "visitor"
+      ],
+      "correct": true,
+      "top1": "garden",
+      "ms": 3.17
+    },
+    {
+      "query": "Why did the timepiece stop?",
+      "expected": "clock",
+      "actual": [
+        "clock",
+        "train",
+        "bell"
+      ],
+      "correct": true,
+      "top1": "clock",
+      "ms": 3.31
+    },
+    {
+      "query": "Who found a fresh letter many years later?",
+      "expected": "visitor",
+      "actual": [
+        "letter",
+        "visitor"
+      ],
+      "correct": true,
+      "top1": "letter",
+      "ms": 3.39
+    },
+    {
+      "query": "How much is bitcoin today?",
+      "expected": null,
+      "actual": [],
+      "correct": true,
+      "top1": null,
+      "ms": 3.24
+    },
+    {
+      "query": "Write a Kubernetes deployment manifest",
+      "expected": null,
+      "actual": [],
+      "correct": true,
+      "top1": null,
+      "ms": 3.72
+    },
+    {
+      "query": "Can you prescribe antibiotics?",
+      "expected": null,
+      "actual": [],
+      "correct": true,
+      "top1": null,
+      "ms": 3.32
+    }
+  ],
+  "correct": 15,
+  "total": 15,
+  "in_scope_top1": 11,
+  "in_scope_total": 12,
+  "jaccard_in_scope_top1": 7,
+  "warm_median_ms": 3.35,
+  "source_count": 12,
+  "notes": "Timings exclude model loading. Threshold is uncalibrated. No visitor chills or memory outcomes measured."
+}

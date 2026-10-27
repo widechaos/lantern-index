@@ -1,0 +1,86 @@
+[
+  {
+    "id": "bell",
+    "title": "The bell register",
+    "date": "1931-10-31",
+    "text": "At midnight the station bell rang although the rope had been cut. The register says the brass clapper had been removed that afternoon. No metal could have struck metal.",
+    "thread": "sound"
+  },
+  {
+    "id": "pipe",
+    "title": "The heating invoice",
+    "date": "1931-10-29",
+    "text": "The heating engineer replaced a steam valve below the platform. His note warns that cooling pipes can knock three times after the boiler shuts down.",
+    "thread": "sound"
+  },
+  {
+    "id": "light",
+    "title": "The keeper\u2019s lamp",
+    "date": "1931-10-30",
+    "text": "Keeper Mara placed an amber lantern in the east window every evening. She promised the last train driver there would always be a light to guide him home.",
+    "thread": "light"
+  },
+  {
+    "id": "battery",
+    "title": "The electrical inspection",
+    "date": "1931-10-31",
+    "text": "An inspector disconnected the station electricity at sunset. The amber glow later seen in the east window came from a wick and oil, not a wire.",
+    "thread": "light"
+  },
+  {
+    "id": "train",
+    "title": "The final timetable",
+    "date": "1931-10-28",
+    "text": "The final passenger train departed at 21:40. The line closed permanently at midnight. No train was scheduled to arrive after the last departure.",
+    "thread": "train"
+  },
+  {
+    "id": "tracks",
+    "title": "The snow report",
+    "date": "1931-11-01",
+    "text": "Fresh snow covered the rails before dawn. A visitor heard wheels on the track, but the snow held no wheel marks. Two small bootprints crossed toward the east window.",
+    "thread": "train"
+  },
+  {
+    "id": "letter",
+    "title": "The unsent letter",
+    "date": "1931-10-31",
+    "text": "Mara wrote to her brother, the last train driver: I know you cannot return. I keep the lamp for the evenings when I forget. The letter was folded but never posted.",
+    "thread": "memory"
+  },
+  {
+    "id": "portrait",
+    "title": "The family portrait",
+    "date": "1930-04-12",
+    "text": "A portrait shows Mara and her brother repairing a paper lantern. On the back she wrote: He taught me that a small light is enough if someone is looking for it.",
+    "thread": "memory"
+  },
+  {
+    "id": "bread",
+    "title": "The bakery receipt",
+    "date": "1931-10-27",
+    "text": "The platform kiosk bought six loaves, cinnamon buns and a sack of flour. The baker refused payment for the last bun, then left on the afternoon train.",
+    "thread": "decoy"
+  },
+  {
+    "id": "garden",
+    "title": "The station garden",
+    "date": "1931-10-25",
+    "text": "The station gardener planted rosemary beside the waiting room. The plants survived winter under an old glass cover. Nobody recorded a ghost in the garden.",
+    "thread": "decoy"
+  },
+  {
+    "id": "clock",
+    "title": "The stopped clock",
+    "date": "1931-10-31",
+    "text": "The waiting room clock stopped at 23:58. A broken spring lay in its case. The wall carried a pale rectangle where a second clock had once hung.",
+    "thread": "time"
+  },
+  {
+    "id": "visitor",
+    "title": "The visitor\u2019s card",
+    "date": "1956-10-31",
+    "text": "A visitor returned twenty-five years later and found an amber light in the east window. The station roof was gone. Someone had left a fresh letter beneath the lantern.",
+    "thread": "light"
+  }
+]

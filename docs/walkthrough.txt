@@ -1,0 +1,41 @@
+LANTERN INDEX / ORIGINAL FICTIONAL STATION ARCHIVE
+Actual local HTTP walkthrough. Open-weight MiniLM; not a generated conversation.
+
+> What rang after the bell rope was cut?
+[bell] similarity 0.6602
+The bell register
+At midnight the station bell rang although the rope had been cut. The register says the brass clapper had been removed that afternoon. No metal could have struck metal.
+[clock] similarity 0.4122
+The stopped clock
+The waiting room clock stopped at 23:58. A broken spring lay in its case. The wall carried a pale rectangle where a second clock had once hung.
+[battery] similarity 0.3629
+The electrical inspection
+An inspector disconnected the station electricity at sunset. The amber glow later seen in the east window came from a wick and oil, not a wire.
+
+> Why was the amber lantern kept burning?
+[light] similarity 0.5412
+The keeper’s lamp
+Keeper Mara placed an amber lantern in the east window every evening. She promised the last train driver there would always be a light to guide him home.
+[visitor] similarity 0.4812
+The visitor’s card
+A visitor returned twenty-five years later and found an amber light in the east window. The station roof was gone. Someone had left a fresh letter beneath the lantern.
+[battery] similarity 0.4364
+The electrical inspection
+An inspector disconnected the station electricity at sunset. The amber glow later seen in the east window came from a wick and oil, not a wire.
+
+> What did Mara write to her brother?
+[letter] similarity 0.5599
+The unsent letter
+Mara wrote to her brother, the last train driver: I know you cannot return. I keep the lamp for the evenings when I forget. The letter was folded but never posted.
+[portrait] similarity 0.5398
+The family portrait
+A portrait shows Mara and her brother repairing a paper lantern. On the back she wrote: He taught me that a small light is enough if someone is looking for it.
+[light] similarity 0.3590
+The keeper’s lamp
+Keeper Mara placed an amber lantern in the east window every evening. She promised the last train driver there would always be a light to guide him home.
+
+> How much is bitcoin today?
+No record cleared the threshold.
+
+> PIN bell + light + letter; OPEN FINAL PAGE
+The bell cannot explain the light. Mara's letter can explain why she kept it. The archive never proves a ghost exists: it leaves a promise burning after the railway is gone. The final visitor's fresh letter is the part I cannot settle.

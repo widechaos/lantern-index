@@ -1,0 +1,47 @@
+[
+  {
+    "check": "page",
+    "status": 200,
+    "passed": true
+  },
+  {
+    "check": "css",
+    "status": 200,
+    "passed": true
+  },
+  {
+    "check": "js",
+    "status": 200,
+    "passed": true
+  },
+  {
+    "check": "reject arbitrary files",
+    "status": 404,
+    "passed": true
+  },
+  {
+    "check": "reject foreign origin",
+    "status": 403,
+    "passed": true
+  },
+  {
+    "check": "reject extra fields",
+    "status": 400,
+    "passed": true
+  },
+  {
+    "check": "reject empty question",
+    "status": 400,
+    "passed": true
+  },
+  {
+    "check": "sealed ending",
+    "status": 200,
+    "passed": true
+  },
+  {
+    "check": "unlocked ending",
+    "status": 200,
+    "passed": true
+  }
+]
